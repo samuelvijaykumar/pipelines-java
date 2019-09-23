@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/NRLS/NRLS/_apis/build/status/samuelvijaykumar.pipelines-java?branchName=master)](https://dev.azure.com/NRLS/NRLS/_build/latest?definitionId=3&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
